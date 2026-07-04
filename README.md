@@ -1,6 +1,6 @@
 ## Introduction
 
-This project serves as Artifact 1 in the "Concepts of Formal AI" (CFAI) series, developed specifically for use in educational materials and presentations. It explores the foundational premise that every artificial intelligence model is, ultimately, equivalent to a computer program. Grounded in the Church-Turing thesis, we empirically observe this truth whenever a neural network executes on deterministic hardware. This artifact demonstrates strict observational equivalence between a deterministic Python script and a Multilayer Perceptron (MLP), both replicating Run-Length Encoding (RLE) logic with 100% accuracy within a closed universe.
+This project serves as Artifact 1 in Concepts of Formal AI (CFAI), Episode 1](https://www.youtube.com/watch?v=nJiXlntb2qM). This artifact explores the foundational premise that every artificial intelligence model is, ultimately, equivalent to a computer program. Grounded in the Church-Turing thesis, we empirically observe this truth whenever a neural network executes on deterministic hardware. This artifact demonstrates strict observational equivalence between a deterministic Python script and a Multilayer Perceptron (MLP), both replicating Run-Length Encoding (RLE) logic with 100% accuracy within a closed universe.
 
 We can analyze this relationship through several theoretical lenses:
 
